@@ -1,0 +1,12 @@
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\bin\Debug\net6.0\StayHealthy.INFRASTRUCTURE.deps.json
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\bin\Debug\net6.0\StayHealthy.INFRASTRUCTURE.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\bin\Debug\net6.0\StayHealthy.INFRASTRUCTURE.pdb
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\refint\StayHealthy.INFRASTRUCTURE.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\StayHealthy.INFRASTRUCTURE.pdb
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.INFRASTRUCTURE\obj\Debug\net6.0\ref\StayHealthy.INFRASTRUCTURE.dll

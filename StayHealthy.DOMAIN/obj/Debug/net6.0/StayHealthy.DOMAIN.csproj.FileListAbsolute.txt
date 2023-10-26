@@ -1,0 +1,12 @@
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\bin\Debug\net6.0\StayHealthy.DOMAIN.deps.json
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\bin\Debug\net6.0\StayHealthy.DOMAIN.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\bin\Debug\net6.0\StayHealthy.DOMAIN.pdb
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\refint\StayHealthy.DOMAIN.dll
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\StayHealthy.DOMAIN.pdb
+C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.DOMAIN\obj\Debug\net6.0\ref\StayHealthy.DOMAIN.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2xuVdHSnvY5q9+0i++l38e5QjqqGQrgwPYza1dxE8gQ=",
+  "Source": "StayHealthy.API",
+  "BasePath": "_content/StayHealthy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
