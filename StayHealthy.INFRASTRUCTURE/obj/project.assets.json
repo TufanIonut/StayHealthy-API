@@ -1130,11 +1130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
+      "projectUniqueName": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
       "projectName": "StayHealthy.INFRASTRUCTURE",
-      "projectPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
+      "projectPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
       "packagesPath": "C:\\Users\\Ionut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\obj\\",
+      "outputPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

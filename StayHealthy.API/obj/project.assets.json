@@ -1686,11 +1686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.API\\StayHealthy.API.csproj",
+      "projectUniqueName": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.API\\StayHealthy.API.csproj",
       "projectName": "StayHealthy.API",
-      "projectPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.API\\StayHealthy.API.csproj",
+      "projectPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.API\\StayHealthy.API.csproj",
       "packagesPath": "C:\\Users\\Ionut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.API\\obj\\",
+      "outputPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1711,11 +1711,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.APPLICATION\\StayHealthy.APPLICATION.csproj": {
-              "projectPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.APPLICATION\\StayHealthy.APPLICATION.csproj"
+            "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.APPLICATION\\StayHealthy.APPLICATION.csproj": {
+              "projectPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.APPLICATION\\StayHealthy.APPLICATION.csproj"
             },
-            "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj": {
-              "projectPath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj"
+            "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj": {
+              "projectPath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj"
             }
           }
         }

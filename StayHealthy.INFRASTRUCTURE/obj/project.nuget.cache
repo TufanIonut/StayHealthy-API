@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tpAMSwM2Z8/uF2Fy77Sr+9cVeAypt7cg75cSzm0A9PxKqY4FmwHV2IfYpP6LP0DFY63Ioz4E9CNLTLW3V5nVQ==",
+  "dgSpecHash": "HR1k19sbpPYujLu88fDwg0R2dcugI4Q/ZOglR8oriB6wJqnE6KaF0NGSzCKEccUMpRfRQo6yrthMEIHstrY0+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
+  "projectFilePath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.INFRASTRUCTURE\\StayHealthy.INFRASTRUCTURE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ionut\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Ionut\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GkW5yg6HVkp0kkn9uV2ukFWXnnyvuwfHzlhst0dQKVdZLKzyvKdG/pOMQtHFkQUe11M0mDykwdaSW0cwKFfhPw==",
+  "dgSpecHash": "Fc3liFN2DNRhnXjgPr4H+fsf1Ndle4u13rQeVxmE7YRjWYHc61hIr+4DQFz+Z6aKnkTcfoFIH0fg/bpeSOmmZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ionut\\source\\repos\\StayHealthy.API\\StayHealthy.DOMAIN\\StayHealthy.DOMAIN.csproj",
+  "projectFilePath": "C:\\Users\\Ionut\\Source\\Repos\\StayHealthy-API\\StayHealthy.DOMAIN\\StayHealthy.DOMAIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ionut\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\Ionut\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",

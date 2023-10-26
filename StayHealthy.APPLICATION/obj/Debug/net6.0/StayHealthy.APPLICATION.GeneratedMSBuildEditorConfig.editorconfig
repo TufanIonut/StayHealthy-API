@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StayHealthy.APPLICATION
-build_property.ProjectDir = C:\Users\Ionut\source\repos\StayHealthy.API\StayHealthy.APPLICATION\
+build_property.ProjectDir = C:\Users\Ionut\Source\Repos\StayHealthy-API\StayHealthy.APPLICATION\
